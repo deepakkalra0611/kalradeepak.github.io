@@ -1,0 +1,35 @@
+h1{
+	font-family: manrope,arial;
+	font-size:  40px;
+	font-weight: 200;
+}
+h6{
+	font-family: manrope,arial;
+	font-size:  15px;
+	font-weight: 200;
+}
+p{
+	font-family:  inter,"times new roman";
+	font-size:  15px;
+	font-weight: 100;
+
+}
+h3{
+	font-family: manrope,arial;
+	font-size:  40px;
+	font-weight: 200;
+}
+a{
+	text-decoration: none;
+	font-size: 15px;
+}
+h2{
+	font-family: arial;
+	font-size: 40px;
+	font-weight: 300;
+}
+h5{
+	font-family: arial;
+	font-size: 20;
+	font-weight: 150;
+}
